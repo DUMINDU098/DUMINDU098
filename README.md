@@ -10,6 +10,9 @@
 - 🌱 I’m currently learning **React & React native**
 
 - 📫 How to reach me **dumindaruwan1998@gmail.com**
+  
+- MY PORTFOLIO  https://dumindu098.github.io/DUMINDA-RUWAN_Portfoliyo/
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
