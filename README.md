@@ -13,6 +13,8 @@
   
 - MY PORTFOLIO  https://dumindu098.github.io/DUMINDA-RUWAN_Portfoliyo/
   
+<a href="https://dumindu098.github.io/DUMINDA-RUWAN_Portfoliyo/" display="inline-block" padding="12px 28px" background="rgb(240, 178, 6)" font-size="16px" >About me </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
