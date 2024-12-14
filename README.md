@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **dumindaruwan1998@gmail.com**
   
-- MY PORTFOLIO  https://dumindu098.github.io/DUMINDA-RUWAN_Portfoliyo/
+- MY PORTFOLIO  https://dumindu098.github.io/DUMINDA_Portfolio/
   
-<a href="https://dumindu098.github.io/DUMINDA-RUWAN_Portfoliyo/" display="inline-block" padding="12px 28px" background="red" font-size="16px" border-radius="40px" color="#081b29" text-decoration="none" font-weight="600" >About me </a>
+<a href="https://dumindu098.github.io/DUMINDA_Portfolio/" display="inline-block" padding="12px 28px" background="red" font-size="16px" border-radius="40px" color="#081b29" text-decoration="none" font-weight="600" >About me </a>
 
 
 <h3 align="left">Connect with me:</h3>
